@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QsDU4GlfQswT7VRCppFvB0ci5x" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />

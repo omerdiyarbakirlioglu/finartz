@@ -53,7 +53,6 @@ public class LoginPageApi {
        public static void control(String turnresponce) {
         assertThat(response.getBody().print(), containsString(turnresponce));
     }
-    //"html.body.table.tbody.tr.td.big.blockquote"
 
     public void afterTest (){
         RestUtil.resetBaseURI();
